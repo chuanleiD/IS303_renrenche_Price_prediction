@@ -9,7 +9,7 @@
 
 2.最终提交版本的作业整合：
 
-[人人车-代传磊-519010910013](https://github.com/chuanleiD/IS303_renrenche_Price_prediction/tree/main/人人车-代传磊-519010910013)
+[人人车-chuanleiD](https://github.com/chuanleiD/IS303_renrenche_Price_prediction/tree/main/人人车-chuanleiD)
 
 3.大作业报告：
 
